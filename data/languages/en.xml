@@ -44,6 +44,7 @@
 		<button id="settings">Settings</button>
 		<button id="save_game">Save Game</button>
 		<button id="load_game">Load Game</button>
+		<button id="test_user">Test User</button>
 	</buttons>
 	
 	<messages>
